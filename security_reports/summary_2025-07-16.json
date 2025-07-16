@@ -7,9 +7,9 @@
   "packages_affected": 22,
   "issues_created": 22,
   "severity_breakdown": {
+    "critical": 1,
     "medium": 46,
-    "low": 8,
     "high": 10,
-    "critical": 1
+    "low": 8
   }
 }
