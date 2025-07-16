@@ -10,8 +10,8 @@
   "issues_created": 22,
   "severity_breakdown": {
     "medium": 46,
-    "high": 10,
     "low": 8,
+    "high": 10,
     "critical": 1
   },
   "fixed_vulnerabilities_sample": []
