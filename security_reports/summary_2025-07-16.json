@@ -1,0 +1,15 @@
+{
+  "scan_date": "2025-07-16",
+  "previous_scan_date": "2025-07-15",
+  "total_current_vulnerabilities": 65,
+  "total_previous_vulnerabilities": 0,
+  "new_vulnerabilities": 65,
+  "packages_affected": 22,
+  "issues_created": 22,
+  "severity_breakdown": {
+    "medium": 46,
+    "low": 8,
+    "high": 10,
+    "critical": 1
+  }
+}
