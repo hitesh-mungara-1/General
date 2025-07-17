@@ -3,16 +3,12 @@
   "previous_scan_date": null,
   "total_current_vulnerabilities": 65,
   "total_previous_vulnerabilities": 0,
-  "new_vulnerabilities": 65,
+  "new_vulnerabilities": 0,
   "fixed_vulnerabilities": 0,
   "persistent_vulnerabilities": 0,
-  "packages_affected": 22,
-  "issues_created": 22,
-  "severity_breakdown": {
-    "medium": 43,
-    "high": 11,
-    "low": 10,
-    "critical": 1
-  },
-  "fixed_vulnerabilities_sample": []
+  "packages_affected": 0,
+  "issues_created": 0,
+  "severity_breakdown": {},
+  "fixed_vulnerabilities_sample": [],
+  "note": "First scan - no comparisons available, no issues created"
 }
