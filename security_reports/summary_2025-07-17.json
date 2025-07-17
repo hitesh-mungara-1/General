@@ -1,18 +1,79 @@
 {
   "scan_date": "2025-07-17",
-  "previous_scan_date": null,
+  "previous_scan_date": "2025-07-15",
   "total_current_vulnerabilities": 65,
-  "total_previous_vulnerabilities": 0,
-  "new_vulnerabilities": 65,
-  "fixed_vulnerabilities": 0,
-  "persistent_vulnerabilities": 0,
-  "packages_affected": 22,
-  "issues_created": 22,
+  "total_previous_vulnerabilities": 36,
+  "new_vulnerabilities": 55,
+  "fixed_vulnerabilities": 26,
+  "persistent_vulnerabilities": 10,
+  "packages_affected": 15,
+  "issues_created": 15,
   "severity_breakdown": {
-    "medium": 43,
-    "high": 11,
-    "low": 10,
+    "medium": 36,
+    "low": 8,
+    "high": 10,
     "critical": 1
   },
-  "fixed_vulnerabilities_sample": []
+  "fixed_vulnerabilities_sample": [
+    {
+      "package": "java",
+      "cve": "CVE-2024-21235",
+      "severity": "medium",
+      "package_version": "17.0.12"
+    },
+    {
+      "package": "net.minidev_json-smart",
+      "cve": "CVE-2024-57699",
+      "severity": "high",
+      "package_version": "2.5.1"
+    },
+    {
+      "package": "java",
+      "cve": "CVE-2024-21131",
+      "severity": "low",
+      "package_version": "17.0.11"
+    },
+    {
+      "package": "netty-common",
+      "cve": "CVE-2025-25193",
+      "severity": "medium",
+      "package_version": "4.1.115.Final"
+    },
+    {
+      "package": "json-smart",
+      "cve": "CVE-2024-57699",
+      "severity": "high",
+      "package_version": "2.5.1"
+    },
+    {
+      "package": "org.apache.mina_mina-core",
+      "cve": "CVE-2024-52046",
+      "severity": "critical",
+      "package_version": "2.2.3"
+    },
+    {
+      "package": "netty-common",
+      "cve": "CVE-2025-25193",
+      "severity": "medium",
+      "package_version": "4.1.115.Final"
+    },
+    {
+      "package": "org.eclipse.jetty_jetty-http",
+      "cve": "CVE-2024-6763",
+      "severity": "medium",
+      "package_version": "9.4.57.v20241219"
+    },
+    {
+      "package": "io.netty_netty-handler",
+      "cve": "CVE-2025-24970",
+      "severity": "high",
+      "package_version": "4.1.108.Final"
+    },
+    {
+      "package": "netty-handler",
+      "cve": "CVE-2025-24970",
+      "severity": "high",
+      "package_version": "4.1.108.Final"
+    }
+  ]
 }
