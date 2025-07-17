@@ -1,14 +1,13 @@
 {
   "scan_date": "2025-07-17",
-  "previous_scan_date": null,
+  "previous_scan_date": "2025-07-16",
   "total_current_vulnerabilities": 65,
-  "total_previous_vulnerabilities": 0,
+  "total_previous_vulnerabilities": 65,
   "new_vulnerabilities": 0,
   "fixed_vulnerabilities": 0,
-  "persistent_vulnerabilities": 0,
+  "persistent_vulnerabilities": 65,
   "packages_affected": 0,
   "issues_created": 0,
   "severity_breakdown": {},
-  "fixed_vulnerabilities_sample": [],
-  "note": "First scan - no comparisons available, no issues created"
+  "fixed_vulnerabilities_sample": []
 }
