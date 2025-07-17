@@ -9,10 +9,10 @@
   "packages_affected": 22,
   "issues_created": 22,
   "severity_breakdown": {
-    "medium": 43,
+    "high": 11,
     "low": 10,
-    "critical": 1,
-    "high": 11
+    "medium": 43,
+    "critical": 1
   },
   "fixed_vulnerabilities_sample": []
 }
