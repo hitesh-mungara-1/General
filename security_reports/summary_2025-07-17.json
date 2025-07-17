@@ -11,8 +11,8 @@
   "severity_breakdown": {
     "medium": 43,
     "low": 10,
-    "high": 11,
-    "critical": 1
+    "critical": 1,
+    "high": 11
   },
   "fixed_vulnerabilities_sample": []
 }
